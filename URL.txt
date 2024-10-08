@@ -1,0 +1,5 @@
+URL Datasets :
+https://www.kaggle.com/datasets/naveennas/sustainable-lifestyle-rating-dataset/data
+
+URL Deployment HuggingFace :
+https://huggingface.co/spaces/AsrilHanif/SustainableLifestyleRating
